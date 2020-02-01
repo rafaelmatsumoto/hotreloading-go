@@ -4,11 +4,12 @@ Hot reloading implementation in a Go Web Server
 
 ## Example
 
+- https://rafaelmatsumoto.dev/posts/hot-reloading-go/
+
 ## Pre-requisities
 
 - Docker
 - Docker Compose
-- Go
 
 ## Usage
 
