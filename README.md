@@ -1,21 +1,21 @@
-# Hot Reloading 
+# Hot Reloading Go
 
-Hot reloading implementation in a Go Web Server 
+Implementação de hot reloading em um simples web server escrito em Go
 
-## Example
+## Exemplo
 
 - https://rafaelmatsumoto.dev/posts/hot-reloading-go/
 
-## Pre-requisities
+## Pré-requisitos
 
 - Docker
 - Docker Compose
 
-## Usage
+## Uso
 
 ```bash
 docker-compose up
 ```
 
-## License
+## licença
 [MIT](https://choosealicense.com/licenses/mit/)
