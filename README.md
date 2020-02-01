@@ -17,5 +17,5 @@ Implementação de hot reloading em um simples web server escrito em Go
 docker-compose up
 ```
 
-## licença
+## Licença
 [MIT](https://choosealicense.com/licenses/mit/)
